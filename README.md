@@ -39,4 +39,4 @@ Algumas ideias para evolução do projeto:
 ## 🚀 Como Executar
 1. Clone este repositório:  
    ```bash
-   git clone https://github.com/seu-usuario/sistema-cinema-csharp.git
+   git clone https://github.com/seu-usuario/CineSharp.git
